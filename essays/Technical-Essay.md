@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Technical Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-01-18
 published: true
 labels:
   - Engineering
