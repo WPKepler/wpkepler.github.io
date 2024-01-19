@@ -6,7 +6,8 @@ title: "Technical Essay"
 date: 2024-01-18
 published: true
 labels:
-  - Engineering
+  - Environmental Science
+  - Modelling
 ---
 
 I'm interested in software engineering as a way to solve problems, and as a way to think more clearly. The problems I care about are primarily environmental in nature--I started Natural Resources and Environmental Management before Computer Science. But if therre was one thing that working on environmental problems taught me, it's that programming and problem solving skills are at an immense premium in the field. Very few people have legitimate field and computer science skills. As geographic information systems become more and more powerful, and computer systems and artificial intelligence grow more and more capable of solving complex environmental problems, I expect the demand in the natural sciences to only grow.
