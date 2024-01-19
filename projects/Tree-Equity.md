@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image:
 title: "Tree Equity in Honolulu"
 date: 2022
 published: true
