@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image:
 title: "100 Realtors Who Care"
 date: 2019
 published: true
