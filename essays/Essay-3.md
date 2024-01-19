@@ -6,7 +6,5 @@ title: "Essay 3"
 date: 2015-09-08
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  -
 ---
