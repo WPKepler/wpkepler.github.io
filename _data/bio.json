@@ -9,7 +9,7 @@
     "summary": "I am studying for two majors at the University of Hawaii. First, a B.S. in Computer Science in the Department of Information and Computer Sciences, and second, a B.S. in Natural Resources and Environmental Management under the College of Tropical Agriculture and Human Resources. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "wpkepler", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "wpkepler", "url": "https://github.com/WPKepler" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/william-pohaku-kepler-2b8380201" }
     ]
   },
