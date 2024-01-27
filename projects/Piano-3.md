@@ -16,4 +16,4 @@ I started asking for piano lessons, when I was four, and I haven't stopped playi
 
 I spent over three and a half years on the piece, but can now call it finished.
 
-[Here's my favorite version of the piece on YouTube](url):
+![2022-Steinway-Model-D-Concert-Grand-Piano-619879-Polished-Ebony-Piano-Chupps-Pianos](https://github.com/WPKepler/wpkepler.github.io/assets/36553948/a900eb7a-7831-44cd-91a8-34e6c4b2bbfa)
