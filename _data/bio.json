@@ -1,165 +1,178 @@
 {
-  "basics": {
-    "name": "William Pohaku Kepler",
-    "label": "Student",
-    "picture": "https://github.com/wpkepler.png",
-    "email": "wkepler@hawaii.edu",
-    "phone": "808-463-9100",
-    "website": "https://wpkepler.github.io",
-    "summary": "I am studying for two majors at the University of Hawaii. First, a B.S. in Computer Science in the Department of Information and Computer Sciences, and second, a B.S. in Natural Resources and Environmental Management under the College of Tropical Agriculture and Human Resources. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "wpkepler", "url": "https://github.com/WPKepler" },
-      { "network": "linkedin", "username": "William Pohaku Kepler", "url": "http://linkedin.com/in/william-pohaku-kepler-2b8380201" }
-    ]
-  },
-  "interests": [
-    { "name": "Environmental Science" },
-    { "name": "Geophysical Modelling" },
-    { "name": "Water Sports" },
-    { "name": "Combat Sports" },
-    { "name": "Writing" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "Python", "Java", "Javascript" ]
-    },
-    
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Natural Resources and Environmental Management, with a Computer Science minor (expected Spring, 2024)",
-      "studyType": "B.S.",
-      "startDate": "2017-08-18",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Campus Center ID and Information Office",
-      "position": "Service Associate",
-      "website": "",
-      "startDate": "2023-08-01",
-      "endDate": "Present",
-      "summary": "Assist customers in obtaining UH IDs, book passport appointments, answer phones, and file in-house paperwork for UH.",
-      "highlights": [
-        "Work as a useful part of a team that has a diverse range of functions",
-        "Clear communications and excellent customer service"
-      ]
-    },
-    {
-      "company": "Kaulunani Department of Urban Forestry -- State of Hawaii Division of Forestry and Wildlife",
-      "position": "Data Science Intern",
-      "website": "https://dlnr.hawaii.gov/forestry/lap/kaulunani/",
-      "startDate": "2020-01-01",
-      "endDate": "2022-11-31",
-      "summary": "Researched urban tree presence and green infrastructure infrastructure cover for the State of Hawaii, writing a 52 page technical paper, and contributing to research that was presented at the Arbor Day Partners in Community Forestry Conference in Seattle, Washington.",
-      "highlights": [
-        "Created a first-of-its-kind report on tree and ecosystem equity in Honolulu",
-        "Created Landcover Data for all zipcodes on the island of Oahu, data which had not been previously available anywhere",
-        "Quantified the monetary value of Honolulu's Urban Trees using iTree Eco",
-        "Worked extensively with ArcGIS pro and ArcGIS online",
-        "Related key demographic indicators with tree value, presence, and canopy cover over 100+ census tracts of Oahu."
-      ]
-    },
-        {
-      "company": "Rentals Maui",
-      "position": "All-purpose Intern",
-      "website": "https://www.rentalsmaui.com/",
-      "startDate": "2018-05-31",
-      "endDate": "2018-07-31",
-      "summary": "Worked in all departments of a short-term rentals firm on Maui, including operations, housekeeping, bookkeeping, scheduling, service, and maintence.",
-      "highlights": [
-        "Created digitized walk-through tours of rentals",
-        "Responed to customer calls and inquiries",
-        "Learned digital records keeping systems for real estate"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "100 Realtors Who Care Maui",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Founder, Coordinator, Outreach",
-      "startDate": "2019-06-01",
-      "endDate": "2020-04-01",
-      "summary": "This was a project I founded in order to benefit Habitat for Humanity Maui, by asking realtors to donate to affordable housing on the island. It ended up raising over $14,000.",
-      "highlights": [
-        "Publicity and mailing list skills",
-        "Outreach to working professionals",
-        "Gained nonprofit operations skills"
-      ]
-    },
-    {
-      "organization": "Camp Imua",
-      "website": "https://discoverimua.com/camp/",
-      "position": "Counselor",
-      "startDate": "2017",
-      "endDate": "2019",
-      "summary": "Volunteered for four straight days every summer from 2017 to 2019 at a camp for disabled children on Maui",
-      "highlights": [
-        "Worked with and befriended special-needs youth through group activities",
-        "Appreciating a spirit of service"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Valedictorian",
-      "date": "2020",
-      "awarder": "Kihei Charter High School",
-      "summary": "Graduated at the top of my high school class, with the highest GPA in the schools history."
-    },
-    {
-      "title": "HMSA Kaimana Scholarship",
-      "date": "2020",
-      "awarder": "HMSA Health Insurance",
-      "summary": "A scholarship given to Hawaii State Students who excel in both Academics and Athletics"
-    },
-    {
-      "title": "Fukunaga Scholarship",
-      "date": "2020",
-      "awarder": "Servco Fukunaga Foundation",
-      "summary": "A scholarship given to Hawaii State Students who are pursuing a career in business in the islands"
-    }
-    {
-      "title": "Chancellors Scholarship",
-      "date": "2020",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "A scholarship given to Hawaii State High School Students attending UH"
-    },
-    {
-      "title": "High Honors in Mathematics, Verbal or Spatial Ability",
-      "date": "2010, 2011, 2012",
-      "awarder": "Johns Hopkins University",
-      "summary": "Given for excelling in tests administered by the Johns Hopkins Center for Talented Youth"
-    },
-    {
-      "title": "Most Valuable Paddler",
-      "date": "2020",
-      "awarder": "Kihei Charter Paddling Team",
-      "summary": ""
-    },
-    {
-      "title": "Team Captain",
-      "date": "2019",
-      "awarder": "Kihei Charter Cross Country"
-      "summary": ""
-    },
-    {
-      "title": "Distance Captain",
-      "date": "2020",
-      "awarder": "Kihei Charter Track and Field Team",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+	"basics": {
+		"name": "William Pohaku Kepler",
+		"label": "Student",
+		"picture": "https://github.com/wpkepler.png",
+		"email": "wkepler@hawaii.edu",
+		"phone": "808-463-9100",
+		"website": "https://wpkepler.github.io",
+		"summary": "I am studying for two majors at the University of Hawaii. First, a B.S. in Computer Science in the Department of Information and Computer Sciences, and second, a B.S. in Natural Resources and Environmental Management under the College of Tropical Agriculture and Human Resources. I expect to graduate in Spring, 2024.",
+		"location": {
+			"address": "",
+			"postalCode": "96816",
+			"city": "Honolulu",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "wpkepler",
+				"url": "https://github.com/WPKepler"
+			},
+			{
+				"network": "linkedin",
+				"username": "William Pohaku Kepler",
+				"url": "http://linkedin.com/in/william-pohaku-kepler-2b8380201"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Environmental Science"
+		},
+		{
+			"name": "Geophysical Modelling"
+		},
+		{
+			"name": "Water Sports"
+		},
+		{
+			"name": "Combat Sports"
+		},
+		{
+			"name": "Writing"
+		}
+	],
+	"skills": [{
+			"name": "Languages and Frameworks",
+			"keywords": ["C", "Python", "Java", "Javascript"]
+		}
+
+	],
+	"education": [{
+		"institution": "University of Hawaii, Honolulu, HI",
+		"area": "Natural Resources and Environmental Management, with a Computer Science minor (expected Spring, 2024)",
+		"studyType": "B.S.",
+		"startDate": "2017-08-18",
+		"endDate": "Present",
+		"courses": []
+	}],
+	"work": [{
+			"company": "UH Manoa Campus Center ID and Information Office",
+			"position": "Service Associate",
+			"website": "",
+			"startDate": "2023-08-01",
+			"endDate": "Present",
+			"summary": "Assist customers in obtaining UH IDs, book passport appointments, answer phones, and file in-house paperwork for UH.",
+			"highlights": [
+				"Work as a useful part of a team that has a diverse range of functions",
+				"Clear communications and excellent customer service"
+			]
+		},
+		{
+			"company": "Kaulunani Department of Urban Forestry -- State of Hawaii Division of Forestry and Wildlife",
+			"position": "Data Science Intern",
+			"website": "https://dlnr.hawaii.gov/forestry/lap/kaulunani/",
+			"startDate": "2020-01-01",
+			"endDate": "2022-11-31",
+			"summary": "Researched urban tree presence and green infrastructure infrastructure cover for the State of Hawaii, writing a 52 page technical paper, and contributing to research that was presented at the Arbor Day Partners in Community Forestry Conference in Seattle, Washington.",
+			"highlights": [
+				"Created a first-of-its-kind report on tree and ecosystem equity in Honolulu",
+				"Created Landcover Data for all zipcodes on the island of Oahu, data which had not been previously available anywhere",
+				"Quantified the monetary value of Honolulu's Urban Trees using iTree Eco",
+				"Worked extensively with ArcGIS pro and ArcGIS online",
+				"Related key demographic indicators with tree value, presence, and canopy cover over 100+ census tracts of Oahu."
+			]
+		},
+		{
+			"company": "Rentals Maui",
+			"position": "All-purpose Intern",
+			"website": "https://www.rentalsmaui.com/",
+			"startDate": "2018-05-31",
+			"endDate": "2018-07-31",
+			"summary": "Worked in all departments of a short-term rentals firm on Maui, including operations, housekeeping, bookkeeping, scheduling, service, and maintence.",
+			"highlights": [
+				"Created digitized walk-through tours of rentals",
+				"Responed to customer calls and inquiries",
+				"Learned digital records keeping systems for real estate"
+			]
+		}
+	],
+	"volunteer": [{
+			"organization": "100 Realtors Who Care Maui",
+			"website": "http://manoa.hawaii.edu/reis",
+			"position": "Founder, Coordinator, Outreach",
+			"startDate": "2019-06-01",
+			"endDate": "2020-04-01",
+			"summary": "This was a project I founded in order to benefit Habitat for Humanity Maui, by asking realtors to donate to affordable housing on the island. It ended up raising over $14,000.",
+			"highlights": [
+				"Publicity and mailing list skills",
+				"Outreach to working professionals",
+				"Gained nonprofit operations skills"
+			]
+		},
+		{
+			"organization": "Camp Imua",
+			"website": "https://discoverimua.com/camp/",
+			"position": "Counselor",
+			"startDate": "2017",
+			"endDate": "2019",
+			"summary": "Volunteered for four straight days every summer from 2017 to 2019 at a camp for disabled children on Maui",
+			"highlights": [
+				"Worked with and befriended special-needs youth through group activities",
+				"Appreciating a spirit of service"
+			]
+		}
+	],
+	"awards": [{
+			"title": "Valedictorian",
+			"date": "2020",
+			"awarder": "Kihei Charter High School",
+			"summary": "Graduated at the top of my high school class, with the highest GPA in the schools history."
+		},
+		{
+			"title": "HMSA Kaimana Scholarship",
+			"date": "2020",
+			"awarder": "HMSA Health Insurance",
+			"summary": "A scholarship given to Hawaii State Students who excel in both Academics and Athletics"
+		},
+		{
+			"title": "Fukunaga Scholarship",
+			"date": "2020",
+			"awarder": "Servco Fukunaga Foundation",
+			"summary": "A scholarship given to Hawaii State Students who are pursuing a career in business in the islands"
+		},
+		{
+			"title": "Chancellors Scholarship",
+			"date": "2020",
+			"awarder": "University of Hawaii at Manoa",
+			"summary": "A scholarship given to Hawaii State High School Students attending UH"
+		},
+		{
+			"title": "High Honors in Mathematics, Verbal or Spatial Ability",
+			"date": "2010, 2011, 2012",
+			"awarder": "Johns Hopkins University",
+			"summary": "Given for excelling in tests administered by the Johns Hopkins Center for Talented Youth"
+		},
+		{
+			"title": "Most Valuable Paddler",
+			"date": "2020",
+			"awarder": "Kihei Charter Paddling Team",
+			"summary": ""
+		},
+		{
+			"title": "Team Captain",
+			"date": "2019",
+			"awarder": "Kihei Charter Cross Country",
+			"summary": ""
+		},
+		{
+			"title": "Distance Captain",
+			"date": "2020",
+			"awarder": "Kihei Charter Track and Field Team",
+			"summary": ""
+		}
+	],
+	"references": [{
+		"name": "Available upon request"
+	}]
 }
