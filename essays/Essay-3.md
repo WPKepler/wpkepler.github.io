@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Essay 3"
+title: "Smart Questions Reflection"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2024-01-22
 published: true
 labels:
   -
