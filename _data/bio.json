@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "wpkepler", "url": "https://github.com/WPKepler" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/william-pohaku-kepler-2b8380201" }
+      { "network": "linkedin", "username": "William Pohaku Kepler", "url": "http://linkedin.com/in/william-pohaku-kepler-2b8380201" }
     ]
   },
   "interests": [
@@ -30,7 +30,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science and Natural Resources and Environmental Management (expected Spring, 2024)",
+      "area": "Natural Resources and Environmental Management, with a Computer Science minor (expected Spring, 2024)",
       "studyType": "B.S.",
       "startDate": "2017-08-18",
       "endDate": "Present",
@@ -40,69 +40,121 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Campus Center ID and Information Office",
+      "position": "Service Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assist customers in obtaining UH IDs, book passport appointments, answer phones, and file in-house paperwork for UH.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Work as a useful part of a team that has a diverse range of functions",
+        "Clear communications and excellent customer service"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Kaulunani Department of Urban Forestry -- State of Hawaii Division of Forestry and Wildlife",
+      "position": "Data Science Intern",
+      "website": "https://dlnr.hawaii.gov/forestry/lap/kaulunani/",
+      "startDate": "2020-01-01",
+      "endDate": "2022-11-31",
+      "summary": "Researched urban tree presence and green infrastructure infrastructure cover for the State of Hawaii, writing a 52 page technical paper, and contributing to research that was presented at the Arbor Day Partners in Community Forestry Conference in Seattle, Washington.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Created a first-of-its-kind report on tree and ecosystem equity in Honolulu",
+        "Created Landcover Data for all zipcodes on the island of Oahu, data which had not been previously available anywhere",
+        "Quantified the monetary value of Honolulu's Urban Trees using iTree Eco",
+        "Worked extensively with ArcGIS pro and ArcGIS online",
+        "Related key demographic indicators with tree value, presence, and canopy cover over 100+ census tracts of Oahu."
+      ]
+    }
+        {
+      "company": "Rentals Maui",
+      "position": "All-purpose Intern",
+      "website": "https://www.rentalsmaui.com/",
+      "startDate": "2018-05-31",
+      "endDate": "2018-07-31",
+      "summary": "Worked in all departments of a short-term rentals firm on Maui, including operations, housekeeping, bookkeeping, scheduling, service, and maintence.",
+      "highlights": [
+        "Created digitized walk-through tours of rentals",
+        "Responed to customer calls and inquiries",
+        "Learned digital records keeping systems for real estate"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "100 Realtors Who Care Maui",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "position": "Founder, Coordinator, Outreach",
+      "startDate": "2019-06-01",
+      "endDate": "2020-04-01",
+      "summary": "This was a project I founded in order to benefit Habitat for Humanity Maui, by asking realtors to donate to affordable housing on the island. It ended up raising over $14,000.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Publicity and mailing list skills",
+        "Outreach to working professionals",
+        "Gained nonprofit operations skills"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Camp Imua",
+      "website": "https://discoverimua.com/camp/",
+      "position": "Counselor",
+      "startDate": "2017",
+      "endDate": "2019",
+      "summary": "Volunteered for four straight days every summer from 2017 to 2019 at a camp for disabled children on Maui",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Worked with and befriended special-needs youth through group activities",
+        "Appreciating a spirit of service",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Valedictorian",
+      "date": "2020",
+      "awarder": "Kihei Charter High School",
+      "summary": "Graduated at the top of my high school class, with the highest GPA in the schools history."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "HMSA Kaimana Scholarship",
+      "date": "2020",
+      "awarder": "HMSA Health Insurance",
+      "summary": "A scholarship given to Hawaii State Students who excel in both Academics and Athletics"
+    }
+    {
+      "title": "Fukunaga Scholarship",
+      "date": "2020",
+      "awarder": "Servco Fukunaga Foundation",
+      "summary": "A scholarship given to Hawaii State Students who are pursuing a career in business in the islands"
+    }
+    {
+      "title": "Chancellors Scholarship",
+      "date": "2020",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "A scholarship given to Hawaii State High School Students attending UH"
+    }
+    {
+      "title": "High Honors in Mathematics, Verbal or Spatial Ability",
+      "date": "2010, 2011, 2012",
+      "awarder": "Johns Hopkins University",
+      "summary": "Given for excelling in tests administered by the Johns Hopkins Center for Talented Youth"
+    }
+    {
+      "title": "Most Valuable Paddler",
+      "date": "2020",
+      "awarder": "Kihei Charter Paddling Team",
+      "summary": ""
+    }
+    {
+      "title": "Team Captain",
+      "date": "2019",
+      "awarder": "Kihei Charter Cross Country",
+      "summary": ""
+    }
+    {
+      "title": "Distance Captain",
+      "date": "2020",
+      "awarder": "Kihei Charter Track and Field Team",
+      "summary": ""
     }
   ],
   "references": [
