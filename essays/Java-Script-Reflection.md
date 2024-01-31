@@ -21,3 +21,5 @@ I think JavaScript is a reasonably good programming language, but don't think I'
 Changing gears, athletic software engineering is really appealing to me. It seems like a fast way to learn material well. I find practice WODs useful, and I think that this style of learning is more akin to the kind of learning that happens on the job and as the result of working on interesting projects, which I think is the most authentic kind. Of course, it also has the benefit of classroom-style instruction, where we are being instructed by people who actually know the answers and are able to lean on expertise instead of simply shrugging and thinking to ourselves: "I guess this works."
 
 The practice WODs can be stressful, but that is part of what's appealing about them. As a person who struggles with studying but enjoys learning interesting things in situations with stakes, the WODs are perfect. I think the class setup will work as well for me as anything ever has. Does that mean it will work? I hope so.
+
+As of 1/30/24 -- There's another cool thing we've learned how to do in JavaScript--publish updates to our websites using GitHub Desktop.
