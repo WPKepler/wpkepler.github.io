@@ -1,0 +1,22 @@
+---
+layout: essay
+type: essay
+title: "Coding Well"
+# All dates must be YYYY-MM-DD format!
+date: 2024-02018
+published: true
+labels:
+  - Coding
+  - Design
+  - Software Standards
+---
+
+"if you just try to make good things, you'll inevitably do it in a distinctive way, just as each person walks in a distinctive way.  Michelangelo was not trying to paint like Michelangelo.  He was just trying to paint well; he couldn't help painting like Michelangelo." - Paul Graham, Taste for Makers
+
+In middle and early high school, I would frequently balk at the fact that I had to be percieved by others. I felt like I had to have a definitive "style," something that would simultaneously set me apart and help me blend in. I didn't want to have a style. Instead, a very large part of me wished I could simply exist, spend time with my friends, and do the things that interested me. Yet I knew that no matter what I did, I would end up being percieved, judged, and categorized. At that time, I chafed at rules, regulations, and guidelines. In short, I hated any influence of convention on the things I could and could not do.
+
+I probably would've hated coding standards.
+
+But there was something I didn't yet understand at that point: while rules and conventions can be made to limit our possibilities, they can also be created to free us. Conventions can stultify our growth, but if used carefully they keep us from spending time and energy on what's trivial. The coding standards don't prevent us from writing simple, elegant, or complicated code, and they don't force us to solve some problems in certain ways. Instead, they enforce a few extra syntactical rules so that we can write our code consistently and review it easily. This keeps us focused on solving problems, not on questions of where we should put spaces. 
+
+Unlike the narrow confines of a highschool clique, coding standards don't force me to think and act differently. Instead, they've helped me get out of my own way. Much like in the social arena, a few small conventions applied consistently keep me focused on what matters.
